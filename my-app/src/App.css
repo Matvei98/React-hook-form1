@@ -1,0 +1,18 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.login {
+  color: red;
+  height: 40px;
+}
+input {
+  border-radius: 4px;
+  padding: 10px 15px;
+}
+.error {
+  border: 1px solid red;
+  border-radius: 5px;
+  background-color: rgb(255, 77, 0);
+}
